@@ -120,7 +120,7 @@ Hello from rag-developement!
 ```
 
 For actual experimentation, open the notebooks:
-
+- `1. document.ipynb`
 - `agenticrag.ipynb`
 - `typesense.ipynb`
 
@@ -145,6 +145,8 @@ The current `data/` directory is organized by source type:
 - `data/vector_store/` for saved vector indexes or retrieval artifacts
 
 ## Notebooks
+### `1. document.ipynb`
+Start with this NoteBook
 
 ### `agenticrag.ipynb`
 
