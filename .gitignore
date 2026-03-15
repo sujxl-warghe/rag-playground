@@ -1,0 +1,60 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+.venv/
+.env/
+env/
+venv/
+
+# Environment variables
+
+.env
+.env.*
+
+# VS Code
+
+.vscode/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Build files
+
+build/
+dist/
+*.egg-info/
+
+# Python testing
+
+.coverage
+.pytest_cache/
+
+# Database
+
+*.sqlite3
+
+# Node (if frontend included)
+
+node_modules/
+.next/
+npm-debug.log
+
+# Misc
+
+*.swp
+*.bak
