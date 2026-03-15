@@ -63,7 +63,14 @@ rag-developement/
 
 ## Setup
 
-### 1. Create and activate a virtual environment
+### 1. Clone the repository
+
+```powershell
+git clone https://github.com/your-username/agentic-rag-lab.git
+cd agentic-rag-lab
+```
+
+### 2. Create and activate a virtual environment
 
 PowerShell:
 
@@ -72,7 +79,7 @@ python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
 
-### 2. Install dependencies
+### 3. Install dependencies
 
 Using `uv`:
 
@@ -92,7 +99,7 @@ Or with `pip`:
 pip install -r requirements.txt
 ```
 
-### 3. Configure environment variables
+### 4. Configure environment variables
 
 Create a `.env` file in the project root with the keys you plan to use:
 
