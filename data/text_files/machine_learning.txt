@@ -1,0 +1,49 @@
+Introduction to Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence (AI) that enables computers to learn from data and improve their performance without being explicitly programmed. Instead of writing fixed rules, machine learning systems identify patterns in data and make decisions or predictions based on those patterns.
+
+Machine learning works by using algorithms that are trained on large amounts of data. During training, the model learns relationships between input data and output results. Once trained, the model can make predictions or classifications on new and unseen data.
+
+Machine learning is widely used in many real-world applications such as spam email filtering, recommendation systems, face recognition, medical diagnosis, fraud detection, and self-driving cars.
+
+Types of Machine Learning
+
+Supervised Learning
+The model is trained using labeled data (input with correct output).
+Example: Linear Regression, Decision Tree, KNN
+
+Unsupervised Learning
+The model works with unlabeled data and finds hidden patterns.
+Example: K-Means Clustering, Apriori Algorithm
+
+Reinforcement Learning
+The model learns by interacting with the environment and receiving rewards or penalties.
+Example: Game-playing AI, Robotics
+
+Key Components of Machine Learning
+
+Data
+
+Features
+
+Algorithm
+
+Model
+
+Training and Testing
+
+Evaluation
+
+Advantages of Machine Learning
+
+Can handle large amounts of data
+
+Improves performance over time
+
+Reduces human effort
+
+Useful for complex problem solving
+
+Conclusion
+
+Machine learning is a powerful technology that allows systems to learn automatically from data and make intelligent decisions. It plays an important role in modern technology and is widely used across various industries.

@@ -1,0 +1,6 @@
+.venv\Scripts\activate
+uv add -r requirements.txt
+uv add ipykernel
+uv add unstrucured openpyxl
+go to typesense >>click on typesense cloud signup >>copy the information paste it 
+scroll down the side bar API Keys >>Create API Key >>it creates Admin API key
