@@ -193,7 +193,3 @@ If you want to turn this into a cleaner project, good next steps would be:
 ## Important Security Note
 
 Never commit real API keys to the repository. Keep secrets in `.env`, add `.env` to `.gitignore`, and rotate any keys that may already have been exposed.
-
-## License
-
-Add a license here if you plan to share or open-source the project.
